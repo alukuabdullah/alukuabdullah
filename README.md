@@ -22,5 +22,3 @@ Welcome to my portfolio, where I showcase my [projects](#).
 
 - [LinkedIn](#)
 - [Email](#)
-**alukuabdullah/alukuabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
