@@ -1,5 +1,5 @@
 
-<!-- Optional: add a simple banner image here, e.g. ![banner](Banner.jpg) -->
+<!-- Optional: add a simple banner image here, e.g. ![banner](Banner.png) -->
 
 Hello, I'm Abdullah. Data Analyst with a background in Microbiology and agricultural research, now focused on SQL analysis and Power BI dashboards that turn raw data into clear, evidence-based recommendations.
 
