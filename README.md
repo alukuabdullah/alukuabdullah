@@ -10,7 +10,7 @@ Hello, I'm Abdullah. Data Analyst with a background in Microbiology and agricult
 
 ### 📊 Projects
 
-Welcome to my portfolio, where I showcase my [projects[](https://github.com/alukuabdullah/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects[](https://github.com/alukuabdullah/Portfolio-Guide/blob/main/README.md)
 
 ### 🛠️ Tools
 
@@ -21,4 +21,4 @@ Welcome to my portfolio, where I showcase my [projects[](https://github.com/aluk
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ololadealuku/)
-- [Email]((ololadealuku@gmail.com)
+- [Email](ololadealuku@gmail.com)
