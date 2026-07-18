@@ -21,7 +21,3 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/aluku
 - [LinkedIn](https://www.linkedin.com/in/ololadealuku/)
 - [Email](ololadealuku@gmail.com)
 
-
-
-- [LinkedIn](https://www.linkedin.com/in/ololadealuku/)
-- [Email](mailto:ololadealuku@gmail.com)
