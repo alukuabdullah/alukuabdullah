@@ -7,8 +7,8 @@
 Hello, I'm Abdullah. Data Analyst with a background in Microbiology and agricultural research, now focused on SQL analysis and Power BI dashboards that turn raw data into clear, evidence-based recommendations.
 
 - Previously: BioSSA project ("Making effective bio-inputs work for smallholder farmers in sub-Saharan Africa") & soil microbiology data collection at IITA (Ibadan)
-- Currently: Assistant Research & Development Manager at BHF Agroforestry (Kwali, Abuja) — field research, experimental monitoring, and data analysis
-- Looking for: Data Analyst roles — remote preferred, open to on-site
+- Currently: Assistant Research & Development Manager at BHF Agroforestry (Kwali, Abuja)  field research, experimental monitoring, and data analysis
+- Looking for: Data Analyst roles; remote and open to on-site
 
 ### 📊 Projects
 
